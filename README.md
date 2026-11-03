@@ -1,6 +1,7 @@
 # research-q-loop
 
->[!Goal] Learning to ask good research Qs and follow them up | Exploring open-source biomed datasets
+>[!GOAL]
+> Learning to ask good research Qs and follow them up | Exploring open-source biomed datasets
 
 *This repo is for the following loop: Take a dataset > Come up with a hypothesis > Conduct experiments > Interpret the results > Conduct followups... in small, bite-sized chunks*
 *The end goal is to hone my research thinking capabilities through deliberate practice*
